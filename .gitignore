@@ -7,7 +7,7 @@
 # Ephemeral index caches used by serialization, do not commit
 .scindex
 
-# Don't commit packages
+# Don't commit packagessss
 *.itempackage
 *.sicpackage
 
