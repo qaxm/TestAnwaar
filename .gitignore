@@ -8,7 +8,7 @@
 .scindex
 
 # Don't commit packagesssssss
-*.itempackage
+*.itempackageeee
 *.sicpackage
 
 #Ignore thumbnails created by Windows
