@@ -1,4 +1,4 @@
-﻿# may contain OAuth secrets, do not commit
+﻿# may contain OAuth secrets, do not committ
 .sitecore/user.json
 
 # NuGet cache for Sitecore CLI
